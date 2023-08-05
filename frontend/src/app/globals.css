@@ -2,6 +2,10 @@
 @tailwind components;
 @tailwind utilities;
 
+html {
+    scroll-behavior: smooth;
+}
+
 @layer utilities {
     .bh-text-h1 {
         @apply text-[3.125rem] font-bold leading-[3.875rem]

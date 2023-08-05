@@ -6,6 +6,8 @@
 The Bike Hub is a platform dedicated to celebrating the artistry, adventure, and culture of biking. Whether you're a passionate biker, an enthusiast, or simply curious about the world of two-wheeled journeys, this platform is designed to inspire, connect, and immerse you in the captivating world of bikes.
 
 ## Main Features
+- Modern and minimalistic UI.
+- Responsive full application.
 - Search bikes by brand name with Combobox (suggestion).
 - Filter bikes by pricing descending or ascending order.
 - Show each bike details in Dialog (Modal).
@@ -15,6 +17,7 @@ The Bike Hub is a platform dedicated to celebrating the artistry, adventure, and
 - Next.js 13 app router and server side rendering.
 - Using custom components such as Button, Search Bar etc.
 - Maintain a well-organized file and folder structure.
+- Reuseable code.
 
 ## Used Technologies
 - Next.js 13
@@ -29,4 +32,4 @@ The Bike Hub is a platform dedicated to celebrating the artistry, adventure, and
 - Express.js
 - MonogoDB (Mongoose)
 
-## [Live Site Link 🚀](https://nextjs.org/docs/deployment)
+## [Live Site Link 🚀](https://bike-hub-showcase.netlify.app/)

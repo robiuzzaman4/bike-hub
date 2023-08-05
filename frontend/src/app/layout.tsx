@@ -21,6 +21,7 @@ export default function RootLayout({
 }) {
   return (
     <html lang="en">
+      <link rel="icon" href="/favicon.png" />
       <body className={`${dm_sans.className} bg-bh-neutrals-100 text-bh-neutrals-800 min-h-screen relative`}>
         {children}
         <div className="hidden sm:block">
