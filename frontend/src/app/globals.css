@@ -1,0 +1,49 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer utilities {
+    .bh-text-h1 {
+        @apply text-[3.125rem] font-bold leading-[3.875rem]
+    }
+
+    .bh-text-h2 {
+        @apply text-[2.125rem] font-bold leading-[2.875rem]
+    }
+
+    .bh-text-h3 {
+        @apply text-[1.5rem] font-bold leading-[2.1875rem]
+    }
+
+    .bh-text-h4 {
+        @apply text-[1.375rem] font-bold leading-[1.75rem]
+    }
+
+    .bh-text-h5 {
+        @apply text-[1rem] font-bold leading-[1.375rem]
+    }
+
+    .bh-text-large {
+        @apply text-bh-neutrals-600 text-[1.5rem] font-normal leading-[2.375rem]
+    }
+
+    .bh-text-default {
+        @apply text-bh-neutrals-600 text-[1.125rem] font-normal leading-[1.875rem]
+    }
+
+    .bh-text-small {
+        @apply text-bh-neutrals-600 text-[0.9375rem] font-normal leading-[1.5rem]
+    }
+
+    .bh-text-highlight {
+        @apply text-bh-primary text-[0.9375rem] font-normal leading-[1.5rem] uppercase
+    }
+
+    .bh-container {
+        @apply max-w-screen-xl mx-auto px-4 sm:px-8 md:px-12 lg:px-16 xl:px-20
+    }
+
+    .bh-gradient {
+        @apply bg-gradient-to-tr from-bh-primary to-violet-600
+    }
+}

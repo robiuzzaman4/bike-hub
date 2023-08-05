@@ -1,0 +1,25 @@
+{
+  "name": "bike-hub-backend",
+  "version": "1.0.0",
+  "description": "Bike Hub Backend",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "node.js",
+    "express.js",
+    "mongodb",
+    "mern",
+    "mernproject"
+  ],
+  "author": "Md. Robi-uz-zaman Ruhan - @robiuzzaman4",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.3.1",
+    "express": "^4.18.2",
+    "mongoose": "^7.4.1"
+  }
+}

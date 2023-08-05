@@ -1,0 +1,317 @@
+[
+    {
+        "name": "Scott Scale Fox (2018)",
+        "price": 1949,
+        "imgSrc": "https://i.postimg.cc/j2k7r8Sc/scott-scale-fox-2018.png",
+        "frameSpecifications": {
+            "brand": "Scott",
+            "model": "Scale - Fox",
+            "type": "Mountain"
+        },
+        "otherBikeSpecs": {
+            "type_of_brakes": "Hand brakes",
+            "wheel_size": 29,
+            "frame_material": "Carbon"
+        },
+        "componentDetails": {
+            "fork": "Fox Rhythm Series 32 FLOAT 29 100mm",
+            "saddle": "Syncros XR 2.0",
+            "brakes": "Shimano MT500",
+            "stem": "Syncros F.l 2.0",
+            "cassette": "12v",
+            "seatpost": "RFR",
+            "leviers": "Sram Gx",
+            "handlebar": "Syncros FL 2.0",
+            "rear_tire": "Continental Race King 29x2.20",
+            "crank_arms": "Sram 1",
+            "front_tire": "Maxxis Ardent Race 29x2.2",
+            "wheelset": "Syncros X25",
+            "crank_arms_length": "175mm",
+            "front_derailleur": "Single chainring",
+            "suspension": "Front",
+            "chainring_range_gearing": 32,
+            "suspension_travel": "80-100mm",
+            "cassette_range_gearing": "10-50"
+        }
+    },
+    {
+        "name": "Orbea Occam H20",
+        "price": 2299,
+        "imgSrc": "https://i.postimg.cc/bY6bbv9n/orbea-occam-H20-fox-2021.png",
+        "frameSpecifications": {
+            "brand": "Orbea",
+            "model": "Orbea Occam H20 - Fox (2021)",
+            "type": "Mountain"
+        },
+        "otherBikeSpecs": {
+            "type_of_brakes": "Hand brakes",
+            "wheel_size": 29,
+            "frame_material": "Aluminium"
+        },
+        "componentDetails": {
+            "fork": "Fox 34 Performance 140mm",
+            "saddle": "Fizik Taiga",
+            "brakes": "Shimano Deore BR-M6100",
+            "stem": "OC",
+            "cassette": "12v",
+            "seatpost": "OC - Telescópica",
+            "leviers": "SRAM NX Eagle",
+            "handlebar": "OC",
+            "rear_tire": "Maxxis Rekon 29x2.40",
+            "crank_arms": "Truvativ Descendant",
+            "front_tire": "Maxxis High Roller II 29x2.50",
+            "wheelset": "Race Face AR 30 Offset",
+            "crank_arms_length": "170mm",
+            "front_derailleur": "Single chainring",
+            "suspension": "Double",
+            "chainring_range_gearing": 32,
+            "suspension_travel": "120-140mm",
+            "cassette_range_gearing": "11-50"
+        }
+    },
+    {
+        "name": "Epic HT Comp",
+        "price": 1829,
+        "imgSrc": "https://i.postimg.cc/LsZcRTgP/Epic-HT-comp-roval-control-2019.png",
+        "frameSpecifications": {
+            "brand": "Specialized",
+            "model": "Epic HT Comp - Roval Control (2019)",
+            "type": "Mountain"
+        },
+        "otherBikeSpecs": {
+            "type_of_brakes": "Hand brakes",
+            "wheel_size": 29,
+            "frame_material": "Carbon"
+        },
+        "componentDetails": {
+            "fork": "Rockshox Reba 80mm",
+            "saddle": "Specialized",
+            "brakes": "SRAM Level TL",
+            "stem": "Specialized",
+            "cassette": "12v",
+            "seatpost": "Specialized Toupe",
+            "leviers": "Sram Nx",
+            "handlebar": "Specialized",
+            "rear_tire": "Specialized Fast Trak 29x2.10",
+            "crank_arms": "Truvativ Stylo",
+            "front_tire": "Specialized Fast Trak 29x2.10",
+            "wheelset": "Roval Control",
+            "crank_arms_length": "Menos de 170mm",
+            "front_derailleur": "Single chainring",
+            "suspension": "Front",
+            "chainring_range_gearing": 32,
+            "suspension_travel": "80-100mm",
+            "cassette_range_gearing": "11-50"
+        }
+    },
+    {
+        "name": "Wilier 110FX",
+        "price": 2099,
+        "imgSrc": "https://i.postimg.cc/vHmghPKb/Wilier-110-FX-2020.png",
+        "frameSpecifications": {
+            "brand": "Wilier",
+            "model": "110FX",
+            "type": "Mountain"
+        },
+        "otherBikeSpecs": {
+            "type_of_brakes": "Hand brakes",
+            "wheel_size": 29,
+            "frame_material": "Carbon"
+        },
+        "componentDetails": {
+            "fork": "Rock Shox Judy 100mm",
+            "saddle": "XLC",
+            "brakes": "Shimano 445",
+            "stem": "Ritchey Trail",
+            "cassette": "12v",
+            "seatpost": "Ritchey",
+            "leviers": "SRAM NX",
+            "handlebar": "Ritchey Trail",
+            "rear_tire": "CST Tires",
+            "crank_arms": "SRAM NX",
+            "front_tire": "CST Tires",
+            "wheelset": "Miche XM4",
+            "crank_arms_length": "175mm",
+            "front_derailleur": "Single chainring",
+            "suspension": "Double",
+            "chainring_range_gearing": 32,
+            "suspension_travel": "80-120mm",
+            "cassette_range_gearing": "11-50"
+        }
+    },
+    {
+        "name": "Orbea Alma M50",
+        "price": 1379,
+        "imgSrc": "https://i.postimg.cc/vTz7pcrj/Orbea-Alma-M50.png",
+        "frameSpecifications": {
+            "brand": "Orbea",
+            "model": "Alma M50",
+            "type": "Mountain"
+        },
+        "otherBikeSpecs": {
+            "type_of_brakes": "Hand brakes",
+            "wheel_size": 29,
+            "frame_material": "Carbon"
+        },
+        "componentDetails": {
+            "fork": "Rockshox Reba 100mm",
+            "saddle": "Orbea",
+            "brakes": "Shimano M365",
+            "stem": "Orbea OC 70mm",
+            "cassette": "11v",
+            "seatpost": "Orbea",
+            "leviers": "Shimano SLX",
+            "handlebar": "Orbea OC 720mm",
+            "rear_tire": "MAXXIS camara",
+            "crank_arms": "FSA",
+            "front_tire": "MAXXIS camara",
+            "wheelset": "MACH1 TRAXX",
+            "crank_arms_length": "175mm",
+            "front_derailleur": "Shimano SLX",
+            "suspension": "Front",
+            "chainring_range_gearing": 36,
+            "suspension_travel": "80-100mm",
+            "cassette_range_gearing": "11-40"
+        }
+    },
+    {
+        "name": "Scott Contessa Scale 910",
+        "price": 2049,
+        "imgSrc": "https://i.postimg.cc/nzjmqm4K/Scott-Contessa-Scale-910.png",
+        "frameSpecifications": {
+            "brand": "Scott",
+            "model": "Contessa Scale 910",
+            "type": "Mountain"
+        },
+        "otherBikeSpecs": {
+            "type_of_brakes": "Hand brakes",
+            "wheel_size": 29,
+            "frame_material": "Carbon"
+        },
+        "componentDetails": {
+            "fork": "Fox 32 Rythym 100mm",
+            "saddle": "Syncros Savona",
+            "brakes": "Shimano MT - 410",
+            "stem": "Syncros 70mm",
+            "cassette": "12v",
+            "seatpost": "Syncros",
+            "leviers": "Shimano Deore",
+            "handlebar": "Syncros 700mm",
+            "rear_tire": "Maxxis Ikon 2.20",
+            "crank_arms": "Shimano SLX",
+            "front_tire": "Maxxis Ikon 2.20",
+            "wheelset": "Syncros",
+            "crank_arms_length": "175mm",
+            "front_derailleur": "Single chainring",
+            "suspension": "Front",
+            "chainring_range_gearing": 30,
+            "suspension_travel": "80-100mm",
+            "cassette_range_gearing": "10-51"
+        }
+    },
+    {
+        "name": "Cube Reaction C62",
+        "price": 1269,
+        "imgSrc": "https://i.postimg.cc/pLkXC4SZ/Cube-Reaction-C62-2019.png",
+        "frameSpecifications": {
+            "brand": "Cube",
+            "model": "Cube Reaction C62 (2019)",
+            "type": "Mountain"
+        },
+        "otherBikeSpecs": {
+            "type_of_brakes": "Hand brakes",
+            "wheel_size": 29,
+            "frame_material": "Carbon"
+        },
+        "componentDetails": {
+            "fork": "Rockshox Revelation",
+            "saddle": "Selle Italia Turbo",
+            "brakes": "Shimano XT",
+            "stem": "Cube 95mm",
+            "cassette": "12v",
+            "seatpost": "KS Telescópica",
+            "leviers": "Sram GX",
+            "handlebar": "Cube 720mm",
+            "rear_tire": "Continental Crossking",
+            "crank_arms": "Sram 1",
+            "front_tire": "Continental Crossking",
+            "wheelset": "DT Swiss XR 1700",
+            "crank_arms_length": "175mm",
+            "front_derailleur": "Single chainring",
+            "suspension": "Front",
+            "chainring_range_gearing": 32,
+            "suspension_travel": "100-120mm",
+            "cassette_range_gearing": "10-50"
+        }
+    },
+    {
+        "name": "Cube Reaction GTC SLT",
+        "price": 1899,
+        "imgSrc": "https://i.postimg.cc/DzpLZF9J/Cube-Reaction-GTC-SLT-2016.png",
+        "frameSpecifications": {
+            "brand": "Cube",
+            "model": "Reaction GTC SLT",
+            "type": "Mountain"
+        },
+        "otherBikeSpecs": {
+            "type_of_brakes": "Hand brakes",
+            "wheel_size": 29,
+            "frame_material": "Carbon"
+        },
+        "componentDetails": {
+            "fork": "ROCK SHOX RS-1 CARBON UPSIDE-DOWN 100mm",
+            "saddle": "SELLE ITALIA SC1",
+            "brakes": "Shimano XT",
+            "stem": "Cube 100mm",
+            "cassette": "12v",
+            "seatpost": "Cube",
+            "leviers": "Shimano XT",
+            "handlebar": "Cube 72cm",
+            "rear_tire": "Maxxis Ikon 29x2.2 Tubeless",
+            "crank_arms": "Shimano XT M8100",
+            "front_tire": "Continental CrossKing 29x2.2 Tubeless",
+            "wheelset": "DT CSW MA 1.9",
+            "crank_arms_length": "175mm",
+            "front_derailleur": "Single chainring",
+            "suspension": "Front",
+            "chainring_range_gearing": 34,
+            "suspension_travel": "80-100mm",
+            "cassette_range_gearing": "10-51"
+        }
+    },
+    {
+        "name": "Trek Superfly 9.8",
+        "price": 1539,
+        "imgSrc": "https://i.postimg.cc/d0crZ43v/Trek-Superfly-9-8-2016.png",
+        "frameSpecifications": {
+            "brand": "Trek",
+            "model": "Superfly 9.8",
+            "type": "Mountain"
+        },
+        "otherBikeSpecs": {
+            "type_of_brakes": "Hand brakes",
+            "wheel_size": 29,
+            "frame_material": "Carbon"
+        },
+        "componentDetails": {
+            "fork": "RosckShox SID 100mm",
+            "saddle": "Bontrager",
+            "brakes": "Shimano XT",
+            "stem": "Bontrager RXL 80mm",
+            "cassette": "11v",
+            "seatpost": "Bontrager Elite",
+            "leviers": "SRAM X1",
+            "handlebar": "Bontrager Carbono 700mm",
+            "rear_tire": "Continental Cross King Camara",
+            "crank_arms": "SRAM X1",
+            "front_tire": "Continental Cross King Camara",
+            "wheelset": "DT Swiss1900 Bontrager Mustang",
+            "crank_arms_length": "175mm",
+            "front_derailleur": "Single chainring",
+            "suspension": "Front",
+            "chainring_range_gearing": 32,
+            "suspension_travel": "80-100mm",
+            "cassette_range_gearing": "11-42"
+        }
+    }
+]
