@@ -32,4 +32,4 @@ The Bike Hub is a platform dedicated to celebrating the artistry, adventure, and
 - Express.js
 - MonogoDB (Mongoose)
 
-## [Live Site Link 🚀](https://bike-hub-showcase.netlify.app/)
+## [Live Site Link 🚀](https://bike-hub.vercel.app/)
